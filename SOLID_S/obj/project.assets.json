@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agust\\Desktop\\quark\\SOLID\\SOLID_Examples\\SOLID_S.csproj",
+      "projectUniqueName": "C:\\Users\\agust\\Desktop\\quark\\SOLID\\SOLID_S\\SOLID_S.csproj",
       "projectName": "SOLID_S",
-      "projectPath": "C:\\Users\\agust\\Desktop\\quark\\SOLID\\SOLID_Examples\\SOLID_S.csproj",
+      "projectPath": "C:\\Users\\agust\\Desktop\\quark\\SOLID\\SOLID_S\\SOLID_S.csproj",
       "packagesPath": "C:\\Users\\agust\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agust\\Desktop\\quark\\SOLID\\SOLID_Examples\\obj\\",
+      "outputPath": "C:\\Users\\agust\\Desktop\\quark\\SOLID\\SOLID_S\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agust\\AppData\\Roaming\\NuGet\\NuGet.Config",
