@@ -1,0 +1,15 @@
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\bin\Debug\net6.0\SOLID_L.exe
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\bin\Debug\net6.0\SOLID_L.deps.json
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\bin\Debug\net6.0\SOLID_L.runtimeconfig.json
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\bin\Debug\net6.0\SOLID_L.dll
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\bin\Debug\net6.0\SOLID_L.pdb
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.csproj.AssemblyReference.cache
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.AssemblyInfoInputs.cache
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.AssemblyInfo.cs
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.csproj.CoreCompileInputs.cache
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.dll
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\refint\SOLID_L.dll
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.pdb
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\SOLID_L.genruntimeconfig.cache
+C:\Users\agust\Desktop\quark\SOLID\SOLID_L\obj\Debug\net6.0\ref\SOLID_L.dll
